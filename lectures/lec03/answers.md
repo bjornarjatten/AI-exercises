@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
-### Task A
+### Task 1A
 
 **The initial state:** \
 All of the n disks are placed on the left-most peg, stacked in order of size where the smallest is at the top.\
@@ -22,9 +22,14 @@ s = <0, 0, n>
 **The action cost function:** \
 1 for all actions
 
-### Task B
+### Task 1B
 
 ![The graph](images/exercise1taskB.png)
 
-### Task C
+### Task 1C
 $f(n) = (n * 3)^3$
+
+## Exercise 2
+
+### Task 2A
+
